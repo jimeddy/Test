@@ -36,3 +36,9 @@ def show_weight(mass):
 
 main()
 
+    mass = float(input('Enter a mass in kilograms: '))
+
+    if mass > 0:
+        show_weight(mass)
+    else:
+        print('Please enter a positive, non-zero value for mass.')
