@@ -5,6 +5,8 @@
 # Global Constant
 GRAVITY = 9.8
 
+#Added this comment
+
 def main():
 
     mass = float(input('Enter a mass in kilograms: '))
