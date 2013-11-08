@@ -19,7 +19,7 @@ def main():
 def show_weight(mass):
   
     # calculate weight
-    weight = mass * GRAVITY
+    weight = mass * GRAVIT
     
     # test for > 1000 newtons
     if weight > 1000:
