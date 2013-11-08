@@ -14,7 +14,7 @@ def main():
     if mass > 0:
         show_weight(mass)
     else:
-        print('Please enter a positive, non-zero value for mass.')
+        print('Please enter a positive value for mass.')
 
 def show_weight(mass):
   
